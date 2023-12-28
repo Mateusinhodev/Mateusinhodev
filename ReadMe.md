@@ -1,19 +1,17 @@
-# 👨‍💻 Faaaala dev, Mateus Aqui!<br>
+👋 Olá, eu sou [Seu Nome]!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mateus.mt11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-rodrigues-a47002264/) 
+Sou um desenvolvedor apaixonado por transformar ideias em código. Minhas principais habilidades incluem:
 
-## 💻 Tech Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-## 📊 GitHub Stats::
-![](https://github-readme-stats.vercel.app/api?username=Mateusinhodev&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mateusinhodev&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusinhodev&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 💻 **HTML & CSS:** Tenho experiência sólida em criar interfaces elegantes e responsivas utilizando HTML e CSS. Foco na acessibilidade e na experiência do usuário.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mateusinhodev&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+- 🚀 **JavaScript:** Sou entusiasta do JavaScript e adoro trabalhar com suas poderosas funcionalidades para criar interatividade dinâmica em aplicações web.
 
----
-[![](https://visitcount.itsvg.in/api?id=Mateusinhodev&icon=5&color=12)](https://visitcount.itsvg.in)
+- 🔧 **TypeScript:** Tenho experiência em projetos que se beneficiam da tipagem estática do TypeScript, proporcionando mais robustez ao código e facilitando a manutenção.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🅰️ **Angular:** Domino o framework Angular, desenvolvendo aplicações escaláveis e mantíveis. Trabalho com conceitos como módulos, componentes, serviços e roteamento.
+
+- ⚡️ **Ionic:** Desenvolvo aplicativos móveis multiplataforma usando o Ionic, combinando a flexibilidade do Angular com a experiência nativa.
+
+🌐 Além disso, estou sempre buscando aprender e acompanhar as últimas tendências no mundo do desenvolvimento web.
+
+📫 Vamos colaborar e criar algo incrível juntos! Sinta-se à vontade para explorar meus repositórios e entre em contato para trocarmos ideias. 😊
