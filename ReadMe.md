@@ -29,7 +29,7 @@
   <!-- JAVASCRIPT-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <!--REACT-->
-  <img src="https://i.im.ge/2024/05/10/Zpdqgr.icons8-react-a-javascript-library-for-building-user-interfaces-96.th.png" alt="mysql" width="40" height="40"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F79%2F518%2Fpng-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png&tbnid=tKSDKiJnJlsysM&vet=12ahUKEwitkL7WjYaGAxVUg2EGHSnmAnoQMygDegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dreact&docid=0sg-1PoLPCUrMM&w=360&h=360&q=react%20logo%20link&ved=2ahUKEwitkL7WjYaGAxVUg2EGHSnmAnoQMygDegQIARBQ" alt="" width="40" height="40"/>
   <!--MySQL-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
