@@ -17,19 +17,15 @@
 </p>
 
 <h3 align="left">Tecnologias:</h3>
-<p align="left"> 
-  <!-- HTML-->
-  <img src="[![Zpd7D0.html-5.png](https://i.im.ge/2024/05/10/Zpd7D0.html-5.png)](https://im.ge/i/Zpd7D0)" alt="html5" width="40" height="40"/> 
-  <!-- CSS-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <!-- GIT-->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <!-- BOOTSTRAP-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <!-- JAVASCRIPT-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <!--REACT-->
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F79%2F518%2Fpng-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png&tbnid=tKSDKiJnJlsysM&vet=12ahUKEwitkL7WjYaGAxVUg2EGHSnmAnoQMygDegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dreact&docid=0sg-1PoLPCUrMM&w=360&h=360&q=react%20logo%20link&ved=2ahUKEwitkL7WjYaGAxVUg2EGHSnmAnoQMygDegQIARBQ" alt="" width="40" height="40"/>
-  <!--MySQL-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<table>
+<a href="https://github.com/leehxd">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
+<img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
+<img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+<img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+<img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
+<img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+</table>
 
