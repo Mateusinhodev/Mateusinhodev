@@ -19,7 +19,7 @@
 <h3 align="left">Tecnologias:</h3>
 <p align="left"> 
   <!-- HTML-->
-  <img src="https://im.ge/i/Zpd7D0" alt="html5" width="40" height="40"/> 
+  <img src="[![Zpd7D0.html-5.png](https://i.im.ge/2024/05/10/Zpd7D0.html-5.png)](https://im.ge/i/Zpd7D0)" alt="html5" width="40" height="40"/> 
   <!-- CSS-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <!-- GIT-->
