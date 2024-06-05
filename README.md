@@ -5,3 +5,4 @@
 * comando git pull
 * comando git fetch
 * git pull origin master
+* git restore --staged
