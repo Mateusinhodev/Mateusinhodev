@@ -4,7 +4,7 @@
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
+- 🧑‍💻 Apaixonado por Tecnologia
 - 🎓 Cursando [Ciências da Computação / IFTO]
 
 ## 🚀 Habilidades
