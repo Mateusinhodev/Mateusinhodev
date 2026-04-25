@@ -1,33 +1,52 @@
 
-# 👋 Olá, eu sou {Mateus Dev}
+# 👋 Olá, eu sou Mateus Rodrigues
 
 ## 💼 Perfil Profissional
 
-- 💻 Estudante de Programação
-- 🧑‍💻 Apaixonado por Tecnologia
-- 🎓 Cursando [Ciências da Computação / IFTO]
+💻 Desenvolvedor em formação, com foco em Front-End  
+👨‍🏫 Professor de Informática no IFTO (Instituto Federal do Tocantins)  
+🚀 Apaixonado por tecnologia e por transformar ideias em soluções reais  
+🎓 Licenciatura em Computação - IFTO  
+
+Atuo ensinando informática e, ao mesmo tempo, desenvolvendo projetos práticos com JavaScript, React e Django, unindo teoria e prática no dia a dia.
+
+---
 
 ## 🚀 Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
-
-## 👨‍💻 Linguagens: 
+### 👨‍💻 Linguagens
 [![My Skills](https://skillicons.dev/icons?i=javascript,python)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
+### 🧰 Frameworks & Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=react,django,bootstrap)](https://skillicons.dev)
 
-## 🗄️ Bancos de Dados: 
+### 🗄️ Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,figma)](https://skillicons.dev)<br><br>
+
+### ⚙️ Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,figma)](https://skillicons.dev)
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{mateusdev23@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{mateusdev23@gmail.com})
-[![Linkedin: Mateus](https://img.shields.io/badge/-mateusdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-rodrigues/)](https://www.linkedin.com/in/mateus-rodrigues-a47002264/)
-[![Instagram](https://img.shields.io/badge/-mateusdev-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateus.mt11/)]({https://www.instagram.com/mateus.mt11/}) <br><br>
+📧 Email: mateusdev23@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/mateus-rodrigues-a47002264/  
+📸 Instagram: https://www.instagram.com/mateus.mt11/  
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusinhodev&show_icons=true&theme=dark) <br><br>
+---
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+## 📊 Estatísticas
+
+![Mateus Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusinhodev&show_icons=true&theme=dark)
+
+---
+
+## ✨ Sobre mim
+
+Sou movido por grandes objetivos: crescer na área de tecnologia, me tornar um excelente desenvolvedor e também impactar pessoas através da educação.
+
+Acredito que ensinar é uma das formas mais poderosas de aprender e evoluir.
+
+---
+
+💬 Fique à vontade para entrar em contato comigo para trocar ideias, colaborar em projetos ou conversar sobre tecnologia!
+
