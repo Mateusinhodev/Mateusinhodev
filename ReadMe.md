@@ -34,12 +34,6 @@ Atuo ensinando informática e, ao mesmo tempo, desenvolvendo projetos práticos 
 
 ---
 
-## 📊 Estatísticas
-
-![Mateus Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusinhodev&show_icons=true&theme=dark)
-
----
-
 ## ✨ Sobre mim
 
 Sou movido por grandes objetivos: crescer na área de tecnologia, me tornar um excelente desenvolvedor e também impactar pessoas através da educação.
