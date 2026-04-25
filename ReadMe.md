@@ -3,7 +3,7 @@
 
 ## 💼 Perfil Profissional
 
-💻 Desenvolvedor em formação, com foco em Front-End  
+💻 Desenvolvedor Front-end 
 👨‍🏫 Professor de Informática no IFTO (Instituto Federal do Tocantins)  
 🚀 Apaixonado por tecnologia e por transformar ideias em soluções reais  
 🎓 Licenciatura em Computação - IFTO  
